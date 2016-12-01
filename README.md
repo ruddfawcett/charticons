@@ -1,1 +1,1 @@
-![](banner.png)
+![](sheets/charticons-sheet-detailed.png)
