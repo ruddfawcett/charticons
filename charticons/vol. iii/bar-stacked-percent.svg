@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>bar-stacked-percent</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="12" height="54" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="54" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="-1.77635684e-15" y="27" width="12" height="27" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="27" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="20" y="0" width="12" height="54" rx="4"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="54" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="20" y="38" width="12" height="16" rx="4"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="16" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="40" y="14" width="12" height="40" rx="4"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="40" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="40" y="0" width="12" height="54" rx="4"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="54" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+    </defs>
+    <g id="Charticons,-vol.-III-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="bar-stacked-percent" stroke="#000000">
+            <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                <polyline id="y" points="1 0 1 60 61 60"></polyline>
+            </g>
+            <g id="rects" transform="translate(35.000000, 30.000000) rotate(90.000000) translate(-35.000000, -30.000000) translate(9.000000, 3.000000)" stroke-width="8">
+                <use id="1-copy" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                <use id="1" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                <use id="2" mask="url(#mask-6)" xlink:href="#path-5"></use>
+                <use id="2-copy" mask="url(#mask-8)" xlink:href="#path-7"></use>
+                <use id="3" mask="url(#mask-10)" xlink:href="#path-9"></use>
+                <use id="3-copy" mask="url(#mask-12)" xlink:href="#path-11"></use>
+            </g>
+        </g>
+    </g>
+</svg>

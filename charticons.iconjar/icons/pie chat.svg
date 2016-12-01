@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>pie-chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="32" cy="32" r="32"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="64" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Charticons,-vol.-I-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="pie-chat" stroke="#000000">
+            <g id="lines" transform="translate(5.000000, 2.000000)" stroke-width="4">
+                <path d="M49,49 L27,32.5" id="3"></path>
+                <path d="M46,9 L27,32.5" id="2"></path>
+                <path d="M27,0.5 L27,32.5" id="1"></path>
+                <path d="M0,41 L27,32.5" id="1-copy"></path>
+            </g>
+            <use id="circle" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>stacked-plot-line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Charticons,-vol.-I-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="stacked-plot-line" stroke-width="4" stroke="#000000">
+            <g id="axes" transform="translate(1.000000, 2.000000)">
+                <polyline id="y" points="1 0 1 60 61 60"></polyline>
+            </g>
+            <g id="bottom" transform="translate(10.000000, 30.000000)">
+                <g id="lines" transform="translate(7.000000, 8.000000)">
+                    <path d="M29,6 L36,0" id="3"></path>
+                    <path d="M12,2 L20,6" id="2"></path>
+                    <path d="M0,8 L4,3" id="1"></path>
+                </g>
+                <g id="circles">
+                    <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                    <rect id="3" x="28" y="12" width="8" height="8" rx="4"></rect>
+                    <rect id="2" x="10" y="4" width="8" height="8" rx="4"></rect>
+                    <rect id="1" x="0" y="16" width="8" height="8" rx="4"></rect>
+                </g>
+            </g>
+            <g id="top" transform="translate(10.000000, 4.000000)">
+                <g id="lines" transform="translate(7.000000, 8.000000)">
+                    <path d="M29,6 L36,0" id="3"></path>
+                    <path d="M12,2 L20,6" id="2"></path>
+                    <path d="M0,8 L4,3" id="1"></path>
+                </g>
+                <g id="circles">
+                    <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                    <rect id="3" x="28" y="12" width="8" height="8" rx="4"></rect>
+                    <rect id="2" x="10" y="4" width="8" height="8" rx="4"></rect>
+                    <rect id="1" x="0" y="16" width="8" height="8" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

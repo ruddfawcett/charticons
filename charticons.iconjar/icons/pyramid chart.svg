@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>pyramid-chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30.8932558,1.38990725 C31.9080911,-0.574820747 33.5226328,-0.564721572 34.499882,1.41336798 L63.650882,60.4190845 C64.6279314,62.3967695 63.6314678,64 61.412631,64 L2.56079833,64 C0.347597115,64 -0.62706145,62.4134512 0.390964989,60.4425453 L30.8932558,1.38990725 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64.0386391" height="64.0769457" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Charticons,-vol.-III-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="pyramid-chart" stroke="#000000">
+            <use id="Rectangle-Copy" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+            <path d="M11.5,44 L53,44" id="Line" stroke-width="4"></path>
+            <path d="M21.5,24 L43,24" id="Line-Copy" stroke-width="4"></path>
+        </g>
+    </g>
+</svg>

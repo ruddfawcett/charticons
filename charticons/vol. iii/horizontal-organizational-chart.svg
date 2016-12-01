@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>horizontal-organizational-chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="19" y="-3.61518398e-15" width="26" height="24" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26" height="24" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="1" y="39" width="24" height="26" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="26" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="39" y="39" width="24" height="26" rx="4"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="26" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Charticons,-vol.-III-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="horizontal-organizational-chart" stroke="#000000">
+            <g id="Group-2" transform="translate(32.000000, 32.000000) rotate(270.000000) translate(-32.000000, -32.000000) translate(0.000000, -0.000000)">
+                <use id="1" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+                <use id="1-copy" mask="url(#mask-4)" stroke-width="8" transform="translate(13.000000, 52.000000) rotate(90.000000) translate(-13.000000, -52.000000) " xlink:href="#path-3"></use>
+                <path d="M13,32 L13,36" id="Line" stroke-width="4"></path>
+                <path d="M51,32 L51,36" id="Line-Copy" stroke-width="4"></path>
+                <use id="1-copy-2" mask="url(#mask-6)" stroke-width="8" transform="translate(51.000000, 52.000000) rotate(90.000000) translate(-51.000000, -52.000000) " xlink:href="#path-5"></use>
+                <path d="M13,32 L51,32" id="Line" stroke-width="4"></path>
+                <path d="M32,32 L32,28" id="Line" stroke-width="4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

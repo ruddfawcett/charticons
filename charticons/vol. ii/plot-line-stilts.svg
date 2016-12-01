@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>vol. ii/plot-line-stilts</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Charticons,-vol.-II-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="vol.-ii/plot-line-stilts" stroke-width="4" stroke="#000000">
+            <g id="axes" transform="translate(1.000000, 2.000000)">
+                <polyline id="y" points="1 0 1 60 61 60"></polyline>
+            </g>
+            <g id="trend" transform="translate(35.000000, 37.500000) scale(1, -1) translate(-35.000000, -37.500000) translate(10.000000, 13.000000)">
+                <g id="lines" transform="translate(3.000000, 0.000000)">
+                    <path d="M18,34 L25,28" id="3"></path>
+                    <path d="M32,29 L40,41" id="3-copy"></path>
+                    <path d="M15,33 L15,0" id="3-copy-2"></path>
+                    <path d="M29,22 L29,0" id="3-copy-4"></path>
+                    <path d="M43,40 L43,0" id="3-copy-5"></path>
+                    <path d="M1,13 L1,1" id="3-copy-3"></path>
+                    <path d="M4,22 L12,34" id="2"></path>
+                </g>
+                <g id="circles" transform="translate(0.000000, 14.000000)">
+                    <rect id="4" x="42" y="27" width="8" height="8" rx="4"></rect>
+                    <rect id="3" x="28" y="8" width="8" height="8" rx="4"></rect>
+                    <rect id="2" x="14" y="19" width="8" height="8" rx="4"></rect>
+                    <rect id="1" x="0" y="0" width="8" height="8" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

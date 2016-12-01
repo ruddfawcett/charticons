@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="575px" height="1400px" viewBox="0 0 575 1400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>charticons-sheet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="24" width="12" height="24" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="20" y="0" width="12" height="48" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="48" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="40" y="12" width="12" height="36" rx="4"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="36" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="0" y="12" width="12" height="24" rx="4"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="0" y="9" width="12" height="18" rx="4"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="0" y="11" width="12" height="24" rx="4"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <circle id="path-13" cx="45" cy="9" r="9"></circle>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18" height="18" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <circle id="path-15" cx="13" cy="17" r="7"></circle>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="14" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <circle id="path-17" cx="6" cy="41" r="6"></circle>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="12" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <circle id="path-19" cx="40" cy="40" r="14"></circle>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="28" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <circle id="path-21" cx="32" cy="32" r="32"></circle>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="64" fill="white">
+            <use xlink:href="#path-21"></use>
+        </mask>
+        <rect id="path-23" x="0" y="4" width="12" height="18" rx="4"></rect>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+        <rect id="path-25" x="0" y="6" width="12" height="18" rx="4"></rect>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-25"></use>
+        </mask>
+        <rect id="path-27" x="0" y="9" width="12" height="24" rx="4"></rect>
+        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-27"></use>
+        </mask>
+        <rect id="path-29" x="0" y="14" width="12" height="20" rx="4"></rect>
+        <mask id="mask-30" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="20" fill="white">
+            <use xlink:href="#path-29"></use>
+        </mask>
+        <rect id="path-31" x="20" y="8" width="12" height="26" rx="4"></rect>
+        <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="26" fill="white">
+            <use xlink:href="#path-31"></use>
+        </mask>
+        <rect id="path-33" x="40" y="0" width="12" height="34" rx="4"></rect>
+        <mask id="mask-34" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="34" fill="white">
+            <use xlink:href="#path-33"></use>
+        </mask>
+        <circle id="path-35" cx="32" cy="32" r="32"></circle>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="64" fill="white">
+            <use xlink:href="#path-35"></use>
+        </mask>
+        <circle id="path-37" cx="32" cy="32" r="12"></circle>
+        <mask id="mask-38" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="24" fill="white">
+            <use xlink:href="#path-37"></use>
+        </mask>
+        <rect id="path-39" x="0" y="6" width="12" height="24" rx="4"></rect>
+        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-39"></use>
+        </mask>
+        <rect id="path-41" x="20" y="12" width="12" height="18" rx="4"></rect>
+        <mask id="mask-42" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-41"></use>
+        </mask>
+        <rect id="path-43" x="40" y="0" width="12" height="30" rx="4"></rect>
+        <mask id="mask-44" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="30" fill="white">
+            <use xlink:href="#path-43"></use>
+        </mask>
+        <rect id="path-45" x="0" y="24" width="12" height="24" rx="4"></rect>
+        <mask id="mask-46" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-45"></use>
+        </mask>
+        <rect id="path-47" x="20" y="0" width="12" height="48" rx="4"></rect>
+        <mask id="mask-48" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="48" fill="white">
+            <use xlink:href="#path-47"></use>
+        </mask>
+        <rect id="path-49" x="40" y="12" width="12" height="36" rx="4"></rect>
+        <mask id="mask-50" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="36" fill="white">
+            <use xlink:href="#path-49"></use>
+        </mask>
+        <rect id="path-51" x="0" y="12" width="12" height="24" rx="4"></rect>
+        <mask id="mask-52" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-51"></use>
+        </mask>
+        <rect id="path-53" x="0" y="9" width="12" height="18" rx="4"></rect>
+        <mask id="mask-54" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-53"></use>
+        </mask>
+        <rect id="path-55" x="0" y="11" width="12" height="24" rx="4"></rect>
+        <mask id="mask-56" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-55"></use>
+        </mask>
+        <circle id="path-57" cx="45" cy="9" r="9"></circle>
+        <mask id="mask-58" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18" height="18" fill="white">
+            <use xlink:href="#path-57"></use>
+        </mask>
+        <circle id="path-59" cx="13" cy="17" r="7"></circle>
+        <mask id="mask-60" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="14" fill="white">
+            <use xlink:href="#path-59"></use>
+        </mask>
+        <circle id="path-61" cx="6" cy="41" r="6"></circle>
+        <mask id="mask-62" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="12" fill="white">
+            <use xlink:href="#path-61"></use>
+        </mask>
+        <circle id="path-63" cx="40" cy="40" r="14"></circle>
+        <mask id="mask-64" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="28" fill="white">
+            <use xlink:href="#path-63"></use>
+        </mask>
+        <circle id="path-65" cx="32" cy="32" r="32"></circle>
+        <mask id="mask-66" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="64" fill="white">
+            <use xlink:href="#path-65"></use>
+        </mask>
+        <rect id="path-67" x="0" y="4" width="12" height="18" rx="4"></rect>
+        <mask id="mask-68" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-67"></use>
+        </mask>
+        <rect id="path-69" x="0" y="6" width="12" height="18" rx="4"></rect>
+        <mask id="mask-70" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-69"></use>
+        </mask>
+        <rect id="path-71" x="0" y="9" width="12" height="24" rx="4"></rect>
+        <mask id="mask-72" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-71"></use>
+        </mask>
+        <rect id="path-73" x="0" y="14" width="12" height="20" rx="4"></rect>
+        <mask id="mask-74" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="20" fill="white">
+            <use xlink:href="#path-73"></use>
+        </mask>
+        <rect id="path-75" x="20" y="8" width="12" height="26" rx="4"></rect>
+        <mask id="mask-76" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="26" fill="white">
+            <use xlink:href="#path-75"></use>
+        </mask>
+        <rect id="path-77" x="40" y="0" width="12" height="34" rx="4"></rect>
+        <mask id="mask-78" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="34" fill="white">
+            <use xlink:href="#path-77"></use>
+        </mask>
+        <circle id="path-79" cx="32" cy="32" r="32"></circle>
+        <mask id="mask-80" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="64" fill="white">
+            <use xlink:href="#path-79"></use>
+        </mask>
+        <circle id="path-81" cx="32" cy="32" r="12"></circle>
+        <mask id="mask-82" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="24" fill="white">
+            <use xlink:href="#path-81"></use>
+        </mask>
+        <rect id="path-83" x="0" y="6" width="12" height="24" rx="4"></rect>
+        <mask id="mask-84" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-83"></use>
+        </mask>
+        <rect id="path-85" x="20" y="12" width="12" height="18" rx="4"></rect>
+        <mask id="mask-86" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-85"></use>
+        </mask>
+        <rect id="path-87" x="40" y="0" width="12" height="30" rx="4"></rect>
+        <mask id="mask-88" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="30" fill="white">
+            <use xlink:href="#path-87"></use>
+        </mask>
+        <rect id="path-89" x="0" y="24" width="12" height="24" rx="4"></rect>
+        <mask id="mask-90" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-89"></use>
+        </mask>
+        <rect id="path-91" x="20" y="0" width="12" height="48" rx="4"></rect>
+        <mask id="mask-92" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="48" fill="white">
+            <use xlink:href="#path-91"></use>
+        </mask>
+        <rect id="path-93" x="40" y="12" width="12" height="36" rx="4"></rect>
+        <mask id="mask-94" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="36" fill="white">
+            <use xlink:href="#path-93"></use>
+        </mask>
+        <rect id="path-95" x="0" y="12" width="12" height="24" rx="4"></rect>
+        <mask id="mask-96" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-95"></use>
+        </mask>
+        <rect id="path-97" x="0" y="9" width="12" height="18" rx="4"></rect>
+        <mask id="mask-98" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-97"></use>
+        </mask>
+        <rect id="path-99" x="0" y="11" width="12" height="24" rx="4"></rect>
+        <mask id="mask-100" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-99"></use>
+        </mask>
+        <circle id="path-101" cx="45" cy="9" r="9"></circle>
+        <mask id="mask-102" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18" height="18" fill="white">
+            <use xlink:href="#path-101"></use>
+        </mask>
+        <circle id="path-103" cx="13" cy="17" r="7"></circle>
+        <mask id="mask-104" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14" height="14" fill="white">
+            <use xlink:href="#path-103"></use>
+        </mask>
+        <circle id="path-105" cx="6" cy="41" r="6"></circle>
+        <mask id="mask-106" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="12" fill="white">
+            <use xlink:href="#path-105"></use>
+        </mask>
+        <circle id="path-107" cx="40" cy="40" r="14"></circle>
+        <mask id="mask-108" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="28" fill="white">
+            <use xlink:href="#path-107"></use>
+        </mask>
+        <circle id="path-109" cx="32" cy="32" r="32"></circle>
+        <mask id="mask-110" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="64" fill="white">
+            <use xlink:href="#path-109"></use>
+        </mask>
+        <rect id="path-111" x="0" y="4" width="12" height="18" rx="4"></rect>
+        <mask id="mask-112" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-111"></use>
+        </mask>
+        <rect id="path-113" x="0" y="6" width="12" height="18" rx="4"></rect>
+        <mask id="mask-114" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-113"></use>
+        </mask>
+        <rect id="path-115" x="0" y="9" width="12" height="24" rx="4"></rect>
+        <mask id="mask-116" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-115"></use>
+        </mask>
+        <rect id="path-117" x="0" y="14" width="12" height="20" rx="4"></rect>
+        <mask id="mask-118" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="20" fill="white">
+            <use xlink:href="#path-117"></use>
+        </mask>
+        <rect id="path-119" x="20" y="8" width="12" height="26" rx="4"></rect>
+        <mask id="mask-120" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="26" fill="white">
+            <use xlink:href="#path-119"></use>
+        </mask>
+        <rect id="path-121" x="40" y="0" width="12" height="34" rx="4"></rect>
+        <mask id="mask-122" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="34" fill="white">
+            <use xlink:href="#path-121"></use>
+        </mask>
+        <circle id="path-123" cx="32" cy="32" r="32"></circle>
+        <mask id="mask-124" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="64" fill="white">
+            <use xlink:href="#path-123"></use>
+        </mask>
+        <circle id="path-125" cx="32" cy="32" r="12"></circle>
+        <mask id="mask-126" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="24" fill="white">
+            <use xlink:href="#path-125"></use>
+        </mask>
+        <rect id="path-127" x="0" y="6" width="12" height="24" rx="4"></rect>
+        <mask id="mask-128" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-127"></use>
+        </mask>
+        <rect id="path-129" x="20" y="12" width="12" height="18" rx="4"></rect>
+        <mask id="mask-130" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-129"></use>
+        </mask>
+        <rect id="path-131" x="40" y="0" width="12" height="30" rx="4"></rect>
+        <mask id="mask-132" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="30" fill="white">
+            <use xlink:href="#path-131"></use>
+        </mask>
+    </defs>
+    <g id="Workable-Sheets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="charticons-sheet">
+            <g id="Footer" transform="translate(0.000000, 1300.000000)">
+                <rect id="Background" fill-opacity="0.15" fill="#41B5FF" x="0" y="0" width="575" height="100"></rect>
+                <g id="Contents" transform="translate(31.956597, 19.500000)" fill="#003972">
+                    <g id="Credit" opacity="0.75" transform="translate(0.000000, 43.000000)">
+                        <text id="Hand-drawn-with-by-R" opacity="0.754359149" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal">
+                            <tspan x="0" y="14">Hand drawn with      by Rudd Fawcett (ruddfawcett.com).</tspan>
+                        </text>
+                        <path d="M94.9060139,6 L94.9060139,13 L101.893861,13 C103.547839,13 104.888653,11.6568542 104.888653,10 C104.888653,8.34314575 103.547839,7 101.893861,7 C101.432306,7 100.995138,7.104595 100.604689,7.29141419 C100.791184,6.90028613 100.895597,6.4623578 100.895597,6 C100.895597,4.34314575 99.5547833,3 97.9008055,3 C96.2468278,3 94.9060139,4.34314575 94.9060139,6 Z" id="heart" opacity="0.754359149" transform="translate(99.897333, 8.000000) rotate(-45.000000) translate(-99.897333, -8.000000) "></path>
+                    </g>
+                    <g id="License" opacity="0.5">
+                        <text id="This-work-is-license" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal">
+                            <tspan x="88.8454861" y="12">This work is licensed under a </tspan>
+                            <tspan x="245.517486" y="12" font-family="Avenir-Medium, Avenir" font-weight="400">Creative Commons </tspan>
+                            <tspan x="88.8454861" y="28" font-family="Avenir-Medium, Avenir" font-weight="400">Attribution 4.0 International License</tspan>
+                            <tspan x="284.229486" y="28">.</tspan>
+                        </text>
+                        <g id="Icons">
+                            <path d="M52.8991094,0 C57.3853073,0 61.1697257,1.5425 64.2503681,4.6285 C67.3489792,7.7335 68.8997821,11.524 68.8997821,16 C68.8997821,20.4955 67.3779288,24.238 64.3352205,27.228 C61.102842,30.4095 57.2909714,32 52.8991094,32 C48.5821172,32 44.8366311,30.428 41.6616528,27.285 C38.5246085,24.142 36.9553377,20.381 36.9553377,16 C36.9553377,11.6195 38.5246085,7.829 41.6616528,4.629 C44.7422952,1.5425 48.4872821,0 52.8991094,0 Z M52.9560104,2.886 C49.3243264,2.886 46.2536667,4.1625 43.7435321,6.7145 C41.1380634,9.3815 39.8358281,12.477 39.8358281,16.0005 C39.8358281,19.5435 41.1285799,22.6105 43.7140834,25.1995 C46.300086,27.7905 49.3802292,29.085 52.9550122,29.085 C56.510329,29.085 59.6104375,27.7815 62.2533412,25.171 C64.7634757,22.752 66.0182934,19.695 66.0182934,15.9995 C66.0182934,12.3615 64.7440096,9.267 62.1969393,6.714 C59.6493698,4.162 56.5687274,2.886 52.9560104,2.886 Z M57.2345695,12.0285 L57.2345695,18.571 L55.4097431,18.571 L55.4097431,26.342 L50.446375,26.342 L50.446375,18.5715 L48.6215486,18.5715 L48.6215486,12.0285 C48.6215486,11.7425 48.721375,11.5 48.9205287,11.3 C49.1206806,11.1005 49.3632587,11 49.6477639,11 L56.2083542,11 C56.4743915,11 56.7124774,11.1 56.9211146,11.3 C57.1292526,11.5 57.2345695,11.743 57.2345695,12.0285 Z M50.7024297,7.9145 C50.7024297,6.4105 51.4436406,5.6575 52.9275599,5.6575 C54.4114792,5.6575 55.152191,6.4095 55.152191,7.9145 C55.152191,9.4 54.4104809,10.143 52.9275599,10.143 C51.4446389,10.143 50.7024297,9.4 50.7024297,7.9145 Z" id="By"></path>
+                            <path d="M15.9430225,0 C20.4108224,0 24.2147664,1.56252441 27.3518597,4.68607322 C28.853272,6.19059673 29.9948046,7.9101236 30.7744609,9.8431538 C31.553618,11.776684 31.9444444,13.8287161 31.9444444,16.00025 C31.9444444,18.1907842 31.5586094,20.2433163 30.7894351,22.1568462 C30.0192625,24.0708761 28.8827213,25.7619025 27.3813089,27.2284254 C25.8224955,28.7709495 24.0540434,29.952468 22.0759526,30.7714808 C20.0988601,31.5904936 18.0543837,32 15.9440208,32 C13.833658,32 11.8131403,31.5959937 9.88296692,30.785481 C7.95329267,29.9764684 6.22277518,28.8049501 4.69191359,27.2719261 C3.161052,25.7389022 1.99655897,24.0098752 1.19793538,22.0858451 C0.399311795,20.161815 0,18.1337833 0,16.00025 C0,13.885717 0.403804052,11.8526852 1.2119113,9.90015469 C2.02001854,7.94762418 3.19449436,6.20009688 4.73434047,4.65707277 C7.7765972,1.55302427 11.5126582,0 15.9430225,0 Z M16.0009228,2.88604509 C12.3502147,2.88604509 9.27900783,4.16256504 6.78780137,6.71460492 C5.53246492,7.99112486 4.56762779,9.42414725 3.89279086,11.0146721 C3.21695565,12.605197 2.88003632,14.2672229 2.88003632,16.00075 C2.88003632,17.7152768 3.21695565,19.3678026 3.89279086,20.9573275 C4.56812693,22.5488523 5.53246492,23.9678745 6.78780137,25.215394 C8.04263869,26.4634135 9.45869814,27.4149284 11.0379763,28.0729386 C12.615757,28.7299489 14.2704053,29.058454 16.0009228,29.058454 C17.7119738,29.058454 19.370116,28.7259488 20.9788434,28.0589384 C22.5855743,27.391428 24.0340778,26.430413 25.327848,25.1733933 C27.8185553,22.7353552 29.0634098,19.6783075 29.0634098,16.00125 C29.0634098,14.2297223 28.7399673,12.5536962 28.0935813,10.9726714 C27.4481936,9.39164674 26.5063169,7.98262473 25.2714452,6.74360537 C22.7028721,4.17206519 19.6136962,2.88604509 16.0009228,2.88604509 Z M15.8007677,13.3437085 L13.6609556,14.4582259 C13.4323496,13.9827185 13.1523322,13.6487133 12.8199052,13.4582103 C12.486979,13.2682073 12.1780115,13.1727058 11.8925035,13.1727058 C10.4669604,13.1727058 9.75319059,14.1152206 9.75319059,16.00125 C9.75319059,16.8582634 9.93387918,17.5432741 10.2947572,18.0577822 C10.6561344,18.5722902 11.1887165,18.8297942 11.8925035,18.8297942 C12.8243974,18.8297942 13.4802671,18.3722871 13.8611107,17.4582728 L15.8287195,18.4582884 C15.4104404,19.2398006 14.8304401,19.8538102 14.0887184,20.3013172 C13.347995,20.7493242 12.529905,20.9728277 11.6359457,20.9728277 C10.2099035,20.9728277 9.0588872,20.5353209 8.18439437,19.6583072 C7.30990154,18.7822935 6.87265513,17.5632744 6.87265513,16.00175 C6.87265513,14.4777262 7.31489294,13.2687073 8.19886943,12.3731933 C9.08284591,11.4781793 10.1999207,11.0301723 11.5505928,11.0301723 C13.5286836,11.0291723 14.9447431,11.8006844 15.8007677,13.3437085 Z M25.01339,13.3437085 L22.902528,14.4582259 C22.6744211,13.9827185 22.3934055,13.6487133 22.0609784,13.4582103 C21.727553,13.2682073 21.4086027,13.1727058 21.1056249,13.1727058 C19.6795827,13.1727058 18.9658128,14.1152206 18.9658128,16.00125 C18.9658128,16.8582634 19.1470006,17.5432741 19.5078786,18.0577822 C19.8687566,18.5722902 20.4008396,18.8297942 21.1056249,18.8297942 C22.0365205,18.8297942 22.6928893,18.3722871 23.0727346,17.4582728 L25.0692936,18.4582884 C24.6325463,19.2398006 24.0425632,19.8538102 23.3018398,20.3013172 C22.5601181,20.7493242 21.7520109,20.9728277 20.8775181,20.9728277 C19.4320094,20.9728277 18.2774991,20.5353209 17.4129891,19.6583072 C16.5464825,18.7822935 16.1142275,17.5632744 16.1142275,16.00175 C16.1142275,14.4777262 16.5559662,13.2687073 17.4409409,12.3731933 C18.3244183,11.4781793 19.441493,11.0301723 20.791666,11.0301723 C22.7692577,11.0291723 24.1773309,11.8006844 25.01339,13.3437085 Z" id="Creative-Commons"></path>
+                        </g>
+                    </g>
+                    <text id="November-2016" opacity="0.75" font-family="Avenir-Book, Avenir" font-size="12" font-weight="normal">
+                        <tspan x="423.856" y="56">November 2016</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Icons" transform="translate(0.000000, 124.000000)">
+                <g id="Icons-@-64px" transform="translate(0.000000, 768.000000)">
+                    <g id="icons" transform="translate(63.500000, 32.000000)">
+                        <g id="bottom" transform="translate(0.000000, 256.000000)" stroke-linecap="round" stroke="#41B5FF" stroke-linejoin="round">
+                            <g id="vol.-i/column" transform="translate(384.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="rects" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 8.000000)">
+                                    <use id="1" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+                                    <use id="2" mask="url(#mask-4)" stroke-width="8" xlink:href="#path-3"></use>
+                                    <use id="3" mask="url(#mask-6)" stroke-width="8" xlink:href="#path-5"></use>
+                                </g>
+                            </g>
+                            <g id="vol.-i/positive-line" transform="translate(256.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="line" stroke-width="1" fill-rule="evenodd" transform="translate(9.000000, 11.000000)">
+                                    <polyline stroke-width="4" points="0.5 43.5 12.5 19.5 30.5 31.5 50 0.5 51 9"></polyline>
+                                    <path d="M50,0 L42,3" id="left-arrow" stroke-width="4"></path>
+                                </g>
+                            </g>
+                            <g id="vol.-i/boxplot" transform="translate(128.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="boxes" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 5.000000)">
+                                    <g id="3" transform="translate(46.000000, 21.500000) rotate(180.000000) translate(-46.000000, -21.500000) translate(40.000000, 1.000000)">
+                                        <g id="cap-3" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                                            <path d="M-7.10542736e-15,40 L6,40" id="bottom"></path>
+                                            <path d="M3,36 L3,40" id="bottom-middle"></path>
+                                            <path d="M3,2 L3,12" id="top-middle"></path>
+                                            <path d="M0,1 L6,1" id="top"></path>
+                                        </g>
+                                        <use mask="url(#mask-8)" stroke-width="8" xlink:href="#path-7"></use>
+                                    </g>
+                                    <g id="2" transform="translate(20.000000, 14.000000)">
+                                        <g id="cap-2" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                                            <path d="M0,35 L6,35" id="bottom"></path>
+                                            <path d="M3,27 L3,34" id="bottom-middle"></path>
+                                            <path d="M3,2 L3,9" id="top-middle"></path>
+                                            <path d="M0,1 L6,1" id="top"></path>
+                                        </g>
+                                        <use mask="url(#mask-10)" stroke-width="8" xlink:href="#path-9"></use>
+                                    </g>
+                                    <g id="1">
+                                        <g id="cap-1" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                                            <path d="M0,45 L6,45" id="bottom"></path>
+                                            <path d="M3,35 L3,44" id="bottom-middle"></path>
+                                            <path d="M3,2 L3,11" id="top-middle"></path>
+                                            <path d="M0,1 L6,1" id="top"></path>
+                                        </g>
+                                        <use mask="url(#mask-12)" stroke-width="8" xlink:href="#path-11"></use>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/bubble-chart">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="bubbles" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 2.000000)">
+                                    <use id="Oval-2" mask="url(#mask-14)" stroke-width="8" xlink:href="#path-13"></use>
+                                    <use id="Oval-2-Copy-2" mask="url(#mask-16)" stroke-width="8" xlink:href="#path-15"></use>
+                                    <use id="Oval-2-Copy-4" mask="url(#mask-18)" stroke-width="8" xlink:href="#path-17"></use>
+                                    <use id="Oval-2-Copy" mask="url(#mask-20)" stroke-width="8" xlink:href="#path-19"></use>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="middle" transform="translate(0.000000, 128.000000)" stroke-linecap="round" stroke="#41B5FF" stroke-linejoin="round">
+                            <g id="vol.-i/pie-chat" transform="translate(384.000000, 0.000000)">
+                                <g id="lines" stroke-width="1" fill-rule="evenodd" transform="translate(5.000000, 2.000000)">
+                                    <path d="M49,49 L27,32.5" id="3" stroke-width="4"></path>
+                                    <path d="M46,9 L27,32.5" id="2" stroke-width="4"></path>
+                                    <path d="M27,0.5 L27,32.5" id="1" stroke-width="4"></path>
+                                    <path d="M0,41 L27,32.5" id="1-copy" stroke-width="4"></path>
+                                </g>
+                                <use id="circle" mask="url(#mask-22)" stroke-width="8" xlink:href="#path-21"></use>
+                            </g>
+                            <g id="vol.-i/candlestick-chart" transform="translate(256.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="candles" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 6.000000)">
+                                    <g id="3" transform="translate(40.000000, 18.000000)">
+                                        <path d="M6,22 L6,30" id="bottom" stroke-width="4"></path>
+                                        <use mask="url(#mask-24)" stroke-width="8" xlink:href="#path-23"></use>
+                                        <path d="M6,0 L6,4" id="top" stroke-width="4"></path>
+                                    </g>
+                                    <g id="2" transform="translate(20.000000, 8.000000)">
+                                        <path d="M6,24 L6,30" id="bottom" stroke-width="4"></path>
+                                        <use mask="url(#mask-26)" stroke-width="8" xlink:href="#path-25"></use>
+                                        <path d="M6,0 L6,6" id="top" stroke-width="4"></path>
+                                    </g>
+                                    <g id="1">
+                                        <path d="M6,33 L6,45" id="bottom" stroke-width="4"></path>
+                                        <use mask="url(#mask-28)" stroke-width="8" xlink:href="#path-27"></use>
+                                        <path d="M6,0 L6,9" id="top" stroke-width="4"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/positive-plot-line" transform="translate(128.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="trend" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 10.000000)">
+                                    <g id="lines" transform="translate(6.000000, 8.000000)" stroke-width="4">
+                                        <path d="M27,19 L39,0" id="3"></path>
+                                        <path d="M10,15 L20,22" id="2"></path>
+                                        <path d="M0,28 L4,17" id="1"></path>
+                                    </g>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="3" x="26" y="27" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="8" y="17" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="36" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/negative-trend-column">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="rects" stroke-width="1" fill-rule="evenodd" transform="translate(34.000000, 39.000000) scale(-1, 1) translate(-34.000000, -39.000000) translate(8.000000, 22.000000)">
+                                    <use id="1" mask="url(#mask-30)" stroke-width="8" xlink:href="#path-29"></use>
+                                    <use id="2" mask="url(#mask-32)" stroke-width="8" xlink:href="#path-31"></use>
+                                    <use id="3" mask="url(#mask-34)" stroke-width="8" xlink:href="#path-33"></use>
+                                </g>
+                                <g id="arrow" stroke-width="1" fill-rule="evenodd" transform="translate(34.000000, 15.000000) scale(1, -1) translate(-34.000000, -15.000000) translate(10.000000, 5.000000)">
+                                    <polyline id="Line" stroke-width="4" points="0 20 48 4 45 11"></polyline>
+                                    <path d="M48,4 L41,0" id="left-arrow" stroke-width="4"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="top">
+                            <g id="vol.-i/scatter-plot" transform="translate(384.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-linecap="round" stroke-width="4" stroke="#41B5FF" stroke-linejoin="round">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="circles" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 2.000000)" fill="#41B5FF">
+                                    <circle id="Oval" cx="4" cy="50" r="3"></circle>
+                                    <circle id="Oval-Copy-12" cx="12" cy="40" r="3"></circle>
+                                    <circle id="Oval-Copy-9" cx="3" cy="11" r="3"></circle>
+                                    <circle id="Oval-Copy" cx="39" cy="25" r="3"></circle>
+                                    <circle id="Oval-Copy-2" cx="28" cy="46" r="3"></circle>
+                                    <circle id="Oval-Copy-3" cx="24" cy="30" r="3"></circle>
+                                    <circle id="Oval-Copy-4" cx="24" cy="13" r="3"></circle>
+                                    <circle id="Oval-Copy-5" cx="9" cy="26" r="3"></circle>
+                                    <circle id="Oval-Copy-6" cx="15" cy="3" r="3"></circle>
+                                    <circle id="Oval-Copy-7" cx="51" cy="23" r="3"></circle>
+                                    <circle id="Oval-Copy-8" cx="41" cy="37" r="3"></circle>
+                                    <circle id="Oval-Copy-10" cx="41" cy="7" r="3"></circle>
+                                    <circle id="Oval-Copy-11" cx="47" cy="49" r="3"></circle>
+                                </g>
+                            </g>
+                            <g id="vol.-i/stacked-plot-line" transform="translate(256.000000, 0.000000)" stroke="#41B5FF" stroke-linecap="round" stroke-linejoin="round">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="bottom" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 30.000000)">
+                                    <g id="lines" transform="translate(7.000000, 8.000000)" stroke-width="4">
+                                        <path d="M29,6 L36,0" id="3"></path>
+                                        <path d="M12,2 L20,6" id="2"></path>
+                                        <path d="M0,8 L4,3" id="1"></path>
+                                    </g>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="3" x="28" y="12" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="10" y="4" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="16" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                                <g id="top" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 4.000000)">
+                                    <g id="lines" transform="translate(7.000000, 8.000000)" stroke-width="4">
+                                        <path d="M29,6 L36,0" id="3"></path>
+                                        <path d="M12,2 L20,6" id="2"></path>
+                                        <path d="M0,8 L4,3" id="1"></path>
+                                    </g>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="3" x="28" y="12" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="10" y="4" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="16" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/donut-chart" transform="translate(128.000000, 0.000000)" stroke="#41B5FF" stroke-linecap="round" stroke-linejoin="round">
+                                <use id="outer-circle" mask="url(#mask-36)" stroke-width="8" xlink:href="#path-35"></use>
+                                <g id="lines" stroke-width="1" fill-rule="evenodd" transform="translate(31.000000, 2.000000)">
+                                    <path d="M27,43 L10,36" id="3" stroke-width="4"></path>
+                                    <path d="M29,20 L11.5314796,27.7655237" id="2" stroke-width="4"></path>
+                                    <path d="M1,0.5 L1,18" id="1" stroke-width="4"></path>
+                                </g>
+                                <use id="inner-circle" mask="url(#mask-38)" stroke-width="8" xlink:href="#path-37"></use>
+                            </g>
+                            <g id="vol.-i/column-plot-line" stroke="#41B5FF" stroke-linecap="round" stroke-linejoin="round">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="rects" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 26.000000)">
+                                    <use id="1" mask="url(#mask-40)" stroke-width="8" xlink:href="#path-39"></use>
+                                    <use id="2" mask="url(#mask-42)" stroke-width="8" xlink:href="#path-41"></use>
+                                    <use id="3" mask="url(#mask-44)" stroke-width="8" xlink:href="#path-43"></use>
+                                </g>
+                                <g id="lines" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 4.000000)">
+                                    <path d="M28,14 L40,6" id="2" stroke-width="4"></path>
+                                    <path d="M8,11 L20,16" id="1" stroke-width="4"></path>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="3" x="40" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="20" y="12" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="6" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Icons-@-64px" transform="translate(0.000000, 384.000000)">
+                    <g id="icons" transform="translate(63.500000, 32.000000)">
+                        <g id="bottom" transform="translate(0.000000, 256.000000)" stroke-linecap="round" stroke="#41B5FF" stroke-linejoin="round">
+                            <g id="vol.-i/column" transform="translate(384.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="rects" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 8.000000)">
+                                    <use id="1" mask="url(#mask-46)" stroke-width="8" xlink:href="#path-45"></use>
+                                    <use id="2" mask="url(#mask-48)" stroke-width="8" xlink:href="#path-47"></use>
+                                    <use id="3" mask="url(#mask-50)" stroke-width="8" xlink:href="#path-49"></use>
+                                </g>
+                            </g>
+                            <g id="vol.-i/positive-line" transform="translate(256.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="line" stroke-width="1" fill-rule="evenodd" transform="translate(9.000000, 11.000000)">
+                                    <polyline stroke-width="4" points="0.5 43.5 12.5 19.5 30.5 31.5 50 0.5 51 9"></polyline>
+                                    <path d="M50,0 L42,3" id="left-arrow" stroke-width="4"></path>
+                                </g>
+                            </g>
+                            <g id="vol.-i/boxplot" transform="translate(128.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="boxes" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 5.000000)">
+                                    <g id="3" transform="translate(46.000000, 21.500000) rotate(180.000000) translate(-46.000000, -21.500000) translate(40.000000, 1.000000)">
+                                        <g id="cap-3" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                                            <path d="M-7.10542736e-15,40 L6,40" id="bottom"></path>
+                                            <path d="M3,36 L3,40" id="bottom-middle"></path>
+                                            <path d="M3,2 L3,12" id="top-middle"></path>
+                                            <path d="M0,1 L6,1" id="top"></path>
+                                        </g>
+                                        <use mask="url(#mask-52)" stroke-width="8" xlink:href="#path-51"></use>
+                                    </g>
+                                    <g id="2" transform="translate(20.000000, 14.000000)">
+                                        <g id="cap-2" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                                            <path d="M0,35 L6,35" id="bottom"></path>
+                                            <path d="M3,27 L3,34" id="bottom-middle"></path>
+                                            <path d="M3,2 L3,9" id="top-middle"></path>
+                                            <path d="M0,1 L6,1" id="top"></path>
+                                        </g>
+                                        <use mask="url(#mask-54)" stroke-width="8" xlink:href="#path-53"></use>
+                                    </g>
+                                    <g id="1">
+                                        <g id="cap-1" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                                            <path d="M0,45 L6,45" id="bottom"></path>
+                                            <path d="M3,35 L3,44" id="bottom-middle"></path>
+                                            <path d="M3,2 L3,11" id="top-middle"></path>
+                                            <path d="M0,1 L6,1" id="top"></path>
+                                        </g>
+                                        <use mask="url(#mask-56)" stroke-width="8" xlink:href="#path-55"></use>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/bubble-chart">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="bubbles" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 2.000000)">
+                                    <use id="Oval-2" mask="url(#mask-58)" stroke-width="8" xlink:href="#path-57"></use>
+                                    <use id="Oval-2-Copy-2" mask="url(#mask-60)" stroke-width="8" xlink:href="#path-59"></use>
+                                    <use id="Oval-2-Copy-4" mask="url(#mask-62)" stroke-width="8" xlink:href="#path-61"></use>
+                                    <use id="Oval-2-Copy" mask="url(#mask-64)" stroke-width="8" xlink:href="#path-63"></use>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="middle" transform="translate(0.000000, 128.000000)" stroke-linecap="round" stroke="#41B5FF" stroke-linejoin="round">
+                            <g id="vol.-i/pie-chat" transform="translate(384.000000, 0.000000)">
+                                <g id="lines" stroke-width="1" fill-rule="evenodd" transform="translate(5.000000, 2.000000)">
+                                    <path d="M49,49 L27,32.5" id="3" stroke-width="4"></path>
+                                    <path d="M46,9 L27,32.5" id="2" stroke-width="4"></path>
+                                    <path d="M27,0.5 L27,32.5" id="1" stroke-width="4"></path>
+                                    <path d="M0,41 L27,32.5" id="1-copy" stroke-width="4"></path>
+                                </g>
+                                <use id="circle" mask="url(#mask-66)" stroke-width="8" xlink:href="#path-65"></use>
+                            </g>
+                            <g id="vol.-i/candlestick-chart" transform="translate(256.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="candles" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 6.000000)">
+                                    <g id="3" transform="translate(40.000000, 18.000000)">
+                                        <path d="M6,22 L6,30" id="bottom" stroke-width="4"></path>
+                                        <use mask="url(#mask-68)" stroke-width="8" xlink:href="#path-67"></use>
+                                        <path d="M6,0 L6,4" id="top" stroke-width="4"></path>
+                                    </g>
+                                    <g id="2" transform="translate(20.000000, 8.000000)">
+                                        <path d="M6,24 L6,30" id="bottom" stroke-width="4"></path>
+                                        <use mask="url(#mask-70)" stroke-width="8" xlink:href="#path-69"></use>
+                                        <path d="M6,0 L6,6" id="top" stroke-width="4"></path>
+                                    </g>
+                                    <g id="1">
+                                        <path d="M6,33 L6,45" id="bottom" stroke-width="4"></path>
+                                        <use mask="url(#mask-72)" stroke-width="8" xlink:href="#path-71"></use>
+                                        <path d="M6,0 L6,9" id="top" stroke-width="4"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/positive-plot-line" transform="translate(128.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="trend" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 10.000000)">
+                                    <g id="lines" transform="translate(6.000000, 8.000000)" stroke-width="4">
+                                        <path d="M27,19 L39,0" id="3"></path>
+                                        <path d="M10,15 L20,22" id="2"></path>
+                                        <path d="M0,28 L4,17" id="1"></path>
+                                    </g>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="3" x="26" y="27" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="8" y="17" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="36" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/negative-trend-column">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="rects" stroke-width="1" fill-rule="evenodd" transform="translate(34.000000, 39.000000) scale(-1, 1) translate(-34.000000, -39.000000) translate(8.000000, 22.000000)">
+                                    <use id="1" mask="url(#mask-74)" stroke-width="8" xlink:href="#path-73"></use>
+                                    <use id="2" mask="url(#mask-76)" stroke-width="8" xlink:href="#path-75"></use>
+                                    <use id="3" mask="url(#mask-78)" stroke-width="8" xlink:href="#path-77"></use>
+                                </g>
+                                <g id="arrow" stroke-width="1" fill-rule="evenodd" transform="translate(34.000000, 15.000000) scale(1, -1) translate(-34.000000, -15.000000) translate(10.000000, 5.000000)">
+                                    <polyline id="Line" stroke-width="4" points="0 20 48 4 45 11"></polyline>
+                                    <path d="M48,4 L41,0" id="left-arrow" stroke-width="4"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="top">
+                            <g id="vol.-i/scatter-plot" transform="translate(384.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-linecap="round" stroke-width="4" stroke="#41B5FF" stroke-linejoin="round">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="circles" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 2.000000)" fill="#41B5FF">
+                                    <circle id="Oval" cx="4" cy="50" r="3"></circle>
+                                    <circle id="Oval-Copy-12" cx="12" cy="40" r="3"></circle>
+                                    <circle id="Oval-Copy-9" cx="3" cy="11" r="3"></circle>
+                                    <circle id="Oval-Copy" cx="39" cy="25" r="3"></circle>
+                                    <circle id="Oval-Copy-2" cx="28" cy="46" r="3"></circle>
+                                    <circle id="Oval-Copy-3" cx="24" cy="30" r="3"></circle>
+                                    <circle id="Oval-Copy-4" cx="24" cy="13" r="3"></circle>
+                                    <circle id="Oval-Copy-5" cx="9" cy="26" r="3"></circle>
+                                    <circle id="Oval-Copy-6" cx="15" cy="3" r="3"></circle>
+                                    <circle id="Oval-Copy-7" cx="51" cy="23" r="3"></circle>
+                                    <circle id="Oval-Copy-8" cx="41" cy="37" r="3"></circle>
+                                    <circle id="Oval-Copy-10" cx="41" cy="7" r="3"></circle>
+                                    <circle id="Oval-Copy-11" cx="47" cy="49" r="3"></circle>
+                                </g>
+                            </g>
+                            <g id="vol.-i/stacked-plot-line" transform="translate(256.000000, 0.000000)" stroke="#41B5FF" stroke-linecap="round" stroke-linejoin="round">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="bottom" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 30.000000)">
+                                    <g id="lines" transform="translate(7.000000, 8.000000)" stroke-width="4">
+                                        <path d="M29,6 L36,0" id="3"></path>
+                                        <path d="M12,2 L20,6" id="2"></path>
+                                        <path d="M0,8 L4,3" id="1"></path>
+                                    </g>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="3" x="28" y="12" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="10" y="4" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="16" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                                <g id="top" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 4.000000)">
+                                    <g id="lines" transform="translate(7.000000, 8.000000)" stroke-width="4">
+                                        <path d="M29,6 L36,0" id="3"></path>
+                                        <path d="M12,2 L20,6" id="2"></path>
+                                        <path d="M0,8 L4,3" id="1"></path>
+                                    </g>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="3" x="28" y="12" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="10" y="4" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="16" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/donut-chart" transform="translate(128.000000, 0.000000)" stroke="#41B5FF" stroke-linecap="round" stroke-linejoin="round">
+                                <use id="outer-circle" mask="url(#mask-80)" stroke-width="8" xlink:href="#path-79"></use>
+                                <g id="lines" stroke-width="1" fill-rule="evenodd" transform="translate(31.000000, 2.000000)">
+                                    <path d="M27,43 L10,36" id="3" stroke-width="4"></path>
+                                    <path d="M29,20 L11.5314796,27.7655237" id="2" stroke-width="4"></path>
+                                    <path d="M1,0.5 L1,18" id="1" stroke-width="4"></path>
+                                </g>
+                                <use id="inner-circle" mask="url(#mask-82)" stroke-width="8" xlink:href="#path-81"></use>
+                            </g>
+                            <g id="vol.-i/column-plot-line" stroke="#41B5FF" stroke-linecap="round" stroke-linejoin="round">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="rects" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 26.000000)">
+                                    <use id="1" mask="url(#mask-84)" stroke-width="8" xlink:href="#path-83"></use>
+                                    <use id="2" mask="url(#mask-86)" stroke-width="8" xlink:href="#path-85"></use>
+                                    <use id="3" mask="url(#mask-88)" stroke-width="8" xlink:href="#path-87"></use>
+                                </g>
+                                <g id="lines" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 4.000000)">
+                                    <path d="M28,14 L40,6" id="2" stroke-width="4"></path>
+                                    <path d="M8,11 L20,16" id="1" stroke-width="4"></path>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="3" x="40" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="20" y="12" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="6" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Icons-@-64px">
+                    <g id="icons" transform="translate(63.500000, 32.000000)">
+                        <g id="bottom" transform="translate(0.000000, 256.000000)" stroke-linecap="round" stroke="#41B5FF" stroke-linejoin="round">
+                            <g id="vol.-i/column" transform="translate(384.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="rects" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 8.000000)">
+                                    <use id="1" mask="url(#mask-90)" stroke-width="8" xlink:href="#path-89"></use>
+                                    <use id="2" mask="url(#mask-92)" stroke-width="8" xlink:href="#path-91"></use>
+                                    <use id="3" mask="url(#mask-94)" stroke-width="8" xlink:href="#path-93"></use>
+                                </g>
+                            </g>
+                            <g id="vol.-i/positive-line" transform="translate(256.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="line" stroke-width="1" fill-rule="evenodd" transform="translate(9.000000, 11.000000)">
+                                    <polyline stroke-width="4" points="0.5 43.5 12.5 19.5 30.5 31.5 50 0.5 51 9"></polyline>
+                                    <path d="M50,0 L42,3" id="left-arrow" stroke-width="4"></path>
+                                </g>
+                            </g>
+                            <g id="vol.-i/boxplot" transform="translate(128.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="boxes" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 5.000000)">
+                                    <g id="3" transform="translate(46.000000, 21.500000) rotate(180.000000) translate(-46.000000, -21.500000) translate(40.000000, 1.000000)">
+                                        <g id="cap-3" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                                            <path d="M-7.10542736e-15,40 L6,40" id="bottom"></path>
+                                            <path d="M3,36 L3,40" id="bottom-middle"></path>
+                                            <path d="M3,2 L3,12" id="top-middle"></path>
+                                            <path d="M0,1 L6,1" id="top"></path>
+                                        </g>
+                                        <use mask="url(#mask-96)" stroke-width="8" xlink:href="#path-95"></use>
+                                    </g>
+                                    <g id="2" transform="translate(20.000000, 14.000000)">
+                                        <g id="cap-2" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                                            <path d="M0,35 L6,35" id="bottom"></path>
+                                            <path d="M3,27 L3,34" id="bottom-middle"></path>
+                                            <path d="M3,2 L3,9" id="top-middle"></path>
+                                            <path d="M0,1 L6,1" id="top"></path>
+                                        </g>
+                                        <use mask="url(#mask-98)" stroke-width="8" xlink:href="#path-97"></use>
+                                    </g>
+                                    <g id="1">
+                                        <g id="cap-1" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                                            <path d="M0,45 L6,45" id="bottom"></path>
+                                            <path d="M3,35 L3,44" id="bottom-middle"></path>
+                                            <path d="M3,2 L3,11" id="top-middle"></path>
+                                            <path d="M0,1 L6,1" id="top"></path>
+                                        </g>
+                                        <use mask="url(#mask-100)" stroke-width="8" xlink:href="#path-99"></use>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/bubble-chart">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="bubbles" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 2.000000)">
+                                    <use id="Oval-2" mask="url(#mask-102)" stroke-width="8" xlink:href="#path-101"></use>
+                                    <use id="Oval-2-Copy-2" mask="url(#mask-104)" stroke-width="8" xlink:href="#path-103"></use>
+                                    <use id="Oval-2-Copy-4" mask="url(#mask-106)" stroke-width="8" xlink:href="#path-105"></use>
+                                    <use id="Oval-2-Copy" mask="url(#mask-108)" stroke-width="8" xlink:href="#path-107"></use>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="middle" transform="translate(0.000000, 128.000000)" stroke-linecap="round" stroke="#41B5FF" stroke-linejoin="round">
+                            <g id="vol.-i/pie-chat" transform="translate(384.000000, 0.000000)">
+                                <g id="lines" stroke-width="1" fill-rule="evenodd" transform="translate(5.000000, 2.000000)">
+                                    <path d="M49,49 L27,32.5" id="3" stroke-width="4"></path>
+                                    <path d="M46,9 L27,32.5" id="2" stroke-width="4"></path>
+                                    <path d="M27,0.5 L27,32.5" id="1" stroke-width="4"></path>
+                                    <path d="M0,41 L27,32.5" id="1-copy" stroke-width="4"></path>
+                                </g>
+                                <use id="circle" mask="url(#mask-110)" stroke-width="8" xlink:href="#path-109"></use>
+                            </g>
+                            <g id="vol.-i/candlestick-chart" transform="translate(256.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="candles" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 6.000000)">
+                                    <g id="3" transform="translate(40.000000, 18.000000)">
+                                        <path d="M6,22 L6,30" id="bottom" stroke-width="4"></path>
+                                        <use mask="url(#mask-112)" stroke-width="8" xlink:href="#path-111"></use>
+                                        <path d="M6,0 L6,4" id="top" stroke-width="4"></path>
+                                    </g>
+                                    <g id="2" transform="translate(20.000000, 8.000000)">
+                                        <path d="M6,24 L6,30" id="bottom" stroke-width="4"></path>
+                                        <use mask="url(#mask-114)" stroke-width="8" xlink:href="#path-113"></use>
+                                        <path d="M6,0 L6,6" id="top" stroke-width="4"></path>
+                                    </g>
+                                    <g id="1">
+                                        <path d="M6,33 L6,45" id="bottom" stroke-width="4"></path>
+                                        <use mask="url(#mask-116)" stroke-width="8" xlink:href="#path-115"></use>
+                                        <path d="M6,0 L6,9" id="top" stroke-width="4"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/positive-plot-line" transform="translate(128.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="trend" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 10.000000)">
+                                    <g id="lines" transform="translate(6.000000, 8.000000)" stroke-width="4">
+                                        <path d="M27,19 L39,0" id="3"></path>
+                                        <path d="M10,15 L20,22" id="2"></path>
+                                        <path d="M0,28 L4,17" id="1"></path>
+                                    </g>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="3" x="26" y="27" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="8" y="17" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="36" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/negative-trend-column">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="rects" stroke-width="1" fill-rule="evenodd" transform="translate(34.000000, 39.000000) scale(-1, 1) translate(-34.000000, -39.000000) translate(8.000000, 22.000000)">
+                                    <use id="1" mask="url(#mask-118)" stroke-width="8" xlink:href="#path-117"></use>
+                                    <use id="2" mask="url(#mask-120)" stroke-width="8" xlink:href="#path-119"></use>
+                                    <use id="3" mask="url(#mask-122)" stroke-width="8" xlink:href="#path-121"></use>
+                                </g>
+                                <g id="arrow" stroke-width="1" fill-rule="evenodd" transform="translate(34.000000, 15.000000) scale(1, -1) translate(-34.000000, -15.000000) translate(10.000000, 5.000000)">
+                                    <polyline id="Line" stroke-width="4" points="0 20 48 4 45 11"></polyline>
+                                    <path d="M48,4 L41,0" id="left-arrow" stroke-width="4"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="top">
+                            <g id="vol.-i/scatter-plot" transform="translate(384.000000, 0.000000)">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-linecap="round" stroke-width="4" stroke="#41B5FF" stroke-linejoin="round">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="circles" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 2.000000)" fill="#41B5FF">
+                                    <circle id="Oval" cx="4" cy="50" r="3"></circle>
+                                    <circle id="Oval-Copy-12" cx="12" cy="40" r="3"></circle>
+                                    <circle id="Oval-Copy-9" cx="3" cy="11" r="3"></circle>
+                                    <circle id="Oval-Copy" cx="39" cy="25" r="3"></circle>
+                                    <circle id="Oval-Copy-2" cx="28" cy="46" r="3"></circle>
+                                    <circle id="Oval-Copy-3" cx="24" cy="30" r="3"></circle>
+                                    <circle id="Oval-Copy-4" cx="24" cy="13" r="3"></circle>
+                                    <circle id="Oval-Copy-5" cx="9" cy="26" r="3"></circle>
+                                    <circle id="Oval-Copy-6" cx="15" cy="3" r="3"></circle>
+                                    <circle id="Oval-Copy-7" cx="51" cy="23" r="3"></circle>
+                                    <circle id="Oval-Copy-8" cx="41" cy="37" r="3"></circle>
+                                    <circle id="Oval-Copy-10" cx="41" cy="7" r="3"></circle>
+                                    <circle id="Oval-Copy-11" cx="47" cy="49" r="3"></circle>
+                                </g>
+                            </g>
+                            <g id="vol.-i/stacked-plot-line" transform="translate(256.000000, 0.000000)" stroke="#41B5FF" stroke-linecap="round" stroke-linejoin="round">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="bottom" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 30.000000)">
+                                    <g id="lines" transform="translate(7.000000, 8.000000)" stroke-width="4">
+                                        <path d="M29,6 L36,0" id="3"></path>
+                                        <path d="M12,2 L20,6" id="2"></path>
+                                        <path d="M0,8 L4,3" id="1"></path>
+                                    </g>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="3" x="28" y="12" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="10" y="4" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="16" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                                <g id="top" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 4.000000)">
+                                    <g id="lines" transform="translate(7.000000, 8.000000)" stroke-width="4">
+                                        <path d="M29,6 L36,0" id="3"></path>
+                                        <path d="M12,2 L20,6" id="2"></path>
+                                        <path d="M0,8 L4,3" id="1"></path>
+                                    </g>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="3" x="28" y="12" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="10" y="4" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="16" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="vol.-i/donut-chart" transform="translate(128.000000, 0.000000)" stroke="#41B5FF" stroke-linecap="round" stroke-linejoin="round">
+                                <use id="outer-circle" mask="url(#mask-124)" stroke-width="8" xlink:href="#path-123"></use>
+                                <g id="lines" stroke-width="1" fill-rule="evenodd" transform="translate(31.000000, 2.000000)">
+                                    <path d="M27,43 L10,36" id="3" stroke-width="4"></path>
+                                    <path d="M29,20 L11.5314796,27.7655237" id="2" stroke-width="4"></path>
+                                    <path d="M1,0.5 L1,18" id="1" stroke-width="4"></path>
+                                </g>
+                                <use id="inner-circle" mask="url(#mask-126)" stroke-width="8" xlink:href="#path-125"></use>
+                            </g>
+                            <g id="vol.-i/column-plot-line" stroke="#41B5FF" stroke-linecap="round" stroke-linejoin="round">
+                                <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                                </g>
+                                <g id="rects" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 26.000000)">
+                                    <use id="1" mask="url(#mask-128)" stroke-width="8" xlink:href="#path-127"></use>
+                                    <use id="2" mask="url(#mask-130)" stroke-width="8" xlink:href="#path-129"></use>
+                                    <use id="3" mask="url(#mask-132)" stroke-width="8" xlink:href="#path-131"></use>
+                                </g>
+                                <g id="lines" stroke-width="1" fill-rule="evenodd" transform="translate(10.000000, 4.000000)">
+                                    <path d="M28,14 L40,6" id="2" stroke-width="4"></path>
+                                    <path d="M8,11 L20,16" id="1" stroke-width="4"></path>
+                                    <g id="circles" stroke-width="4">
+                                        <rect id="3" x="40" y="0" width="8" height="8" rx="4"></rect>
+                                        <rect id="2" x="20" y="12" width="8" height="8" rx="4"></rect>
+                                        <rect id="1" x="0" y="6" width="8" height="8" rx="4"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Text">
+                <rect id="Background" fill="#003972" x="0" y="0" width="575" height="100"></rect>
+                <text id="CHARTICONS" font-family="Avenir-Medium, Avenir" font-size="40" font-weight="400" letter-spacing="7" fill="#FFFFFF">
+                    <tspan x="127.36" y="65.5">CHARTICON</tspan>
+                    <tspan x="427.4" y="65.5">S</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

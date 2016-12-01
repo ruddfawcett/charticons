@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>boxplot</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="12" width="12" height="24" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="9" width="12" height="18" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="18" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="11" width="12" height="24" rx="4"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="24" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Charticons,-vol.-I-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="boxplot" stroke="#000000">
+            <g id="axes" transform="translate(1.000000, 2.000000)" stroke-width="4">
+                <polyline id="y" points="1 0 1 60 61 60"></polyline>
+            </g>
+            <g id="boxes" transform="translate(8.000000, 5.000000)">
+                <g id="3" transform="translate(46.000000, 21.500000) rotate(180.000000) translate(-46.000000, -21.500000) translate(40.000000, 1.000000)">
+                    <g id="cap-3" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                        <path d="M-7.10542736e-15,40 L6,40" id="bottom"></path>
+                        <path d="M3,36 L3,40" id="bottom-middle"></path>
+                        <path d="M3,2 L3,12" id="top-middle"></path>
+                        <path d="M0,1 L6,1" id="top"></path>
+                    </g>
+                    <use mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+                </g>
+                <g id="2" transform="translate(20.000000, 14.000000)">
+                    <g id="cap-2" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                        <path d="M0,35 L6,35" id="bottom"></path>
+                        <path d="M3,27 L3,34" id="bottom-middle"></path>
+                        <path d="M3,2 L3,9" id="top-middle"></path>
+                        <path d="M0,1 L6,1" id="top"></path>
+                    </g>
+                    <use mask="url(#mask-4)" stroke-width="8" xlink:href="#path-3"></use>
+                </g>
+                <g id="1">
+                    <g id="cap-1" transform="translate(3.000000, 0.000000)" stroke-width="4">
+                        <path d="M0,45 L6,45" id="bottom"></path>
+                        <path d="M3,35 L3,44" id="bottom-middle"></path>
+                        <path d="M3,2 L3,11" id="top-middle"></path>
+                        <path d="M0,1 L6,1" id="top"></path>
+                    </g>
+                    <use mask="url(#mask-6)" stroke-width="8" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

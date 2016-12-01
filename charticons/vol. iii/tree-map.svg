@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>vol. iii/tree-map</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="64" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="64" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M40,26 L0,26 L0,4.00552025 L0,4.00552025 C0,1.7933325 2.03859806,0 4.56902013,0 L40,0" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="40" height="26" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="38" y="0" width="26" height="64"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26" height="64" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="38" y="38" width="26" height="26"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26" height="26" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Charticons,-vol.-III-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="vol.-iii/tree-map" stroke="#000000" stroke-width="8">
+            <use id="Rectangle" mask="url(#mask-2)" xlink:href="#path-1"></use>
+            <use id="Rectangle-3" mask="url(#mask-4)" xlink:href="#path-3"></use>
+            <use id="Rectangle-4" mask="url(#mask-6)" xlink:href="#path-5"></use>
+            <use id="Rectangle-5" mask="url(#mask-8)" xlink:href="#path-7"></use>
+        </g>
+    </g>
+</svg>

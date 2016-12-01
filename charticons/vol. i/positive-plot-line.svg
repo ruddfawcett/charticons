@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>positive-plot-line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Charticons,-vol.-I-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="positive-plot-line" stroke-width="4" stroke="#000000">
+            <g id="axes" transform="translate(1.000000, 2.000000)">
+                <polyline id="y" points="1 0 1 60 61 60"></polyline>
+            </g>
+            <g id="trend" transform="translate(10.000000, 10.000000)">
+                <g id="lines" transform="translate(6.000000, 8.000000)">
+                    <path d="M27,19 L39,0" id="3"></path>
+                    <path d="M10,15 L20,22" id="2"></path>
+                    <path d="M0,28 L4,17" id="1"></path>
+                </g>
+                <g id="circles">
+                    <rect id="4" x="42" y="0" width="8" height="8" rx="4"></rect>
+                    <rect id="3" x="26" y="27" width="8" height="8" rx="4"></rect>
+                    <rect id="2" x="8" y="17" width="8" height="8" rx="4"></rect>
+                    <rect id="1" x="0" y="36" width="8" height="8" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

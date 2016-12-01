@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>stacked-area</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Charticons,-vol.-III-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="stacked-area" stroke="#000000" stroke-width="4">
+            <g id="Group-2" transform="translate(32.500000, 32.500000) scale(-1, 1) translate(-32.500000, -32.500000) translate(2.000000, 2.000000)">
+                <g id="axes" transform="translate(30.500000, 30.500000) scale(-1, 1) translate(-30.500000, -30.500000) ">
+                    <polyline id="y" points="1 0 1 60 61 60"></polyline>
+                </g>
+                <polyline id="Path-5" points="3 52 9 4 19 20 28 2 46 17 52 2"></polyline>
+                <polyline id="Path-5-Copy" points="3 52 13 26 23 34 30 17 49 32 52 24"></polyline>
+                <polyline id="Path-5-Copy-2" points="3 52 16 40 25 52 34 33 49 46 52 40"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

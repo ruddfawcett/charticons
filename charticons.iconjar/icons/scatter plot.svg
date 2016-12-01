@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>scatter-plot</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Charticons,-vol.-I-(Axes)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="scatter-plot">
+            <g id="axes" transform="translate(1.000000, 2.000000)" stroke-linecap="round" stroke-width="4" stroke="#000000" stroke-linejoin="round">
+                <polyline id="y" points="1 0 1 60 61 60"></polyline>
+            </g>
+            <g id="circles" transform="translate(8.000000, 2.000000)" fill="#000000">
+                <circle id="Oval" cx="4" cy="50" r="3"></circle>
+                <circle id="Oval-Copy-12" cx="12" cy="40" r="3"></circle>
+                <circle id="Oval-Copy-9" cx="3" cy="11" r="3"></circle>
+                <circle id="Oval-Copy" cx="39" cy="25" r="3"></circle>
+                <circle id="Oval-Copy-2" cx="28" cy="46" r="3"></circle>
+                <circle id="Oval-Copy-3" cx="24" cy="30" r="3"></circle>
+                <circle id="Oval-Copy-4" cx="24" cy="13" r="3"></circle>
+                <circle id="Oval-Copy-5" cx="9" cy="26" r="3"></circle>
+                <circle id="Oval-Copy-6" cx="15" cy="3" r="3"></circle>
+                <circle id="Oval-Copy-7" cx="51" cy="23" r="3"></circle>
+                <circle id="Oval-Copy-8" cx="41" cy="37" r="3"></circle>
+                <circle id="Oval-Copy-10" cx="41" cy="7" r="3"></circle>
+                <circle id="Oval-Copy-11" cx="47" cy="49" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
